@@ -1,0 +1,1 @@
+I did Heroes of Pymoli only. Several times I created dataframe copies to ensure that the formatting was not applied to the original data. I was not able to do the formatting on one table (despite having made copies of the dataframe) without changing the data that was needed for later calculations. 
